@@ -74,7 +74,7 @@ Developed by: Molla Adugna
 
 📧 Email: mollaadugna@gmail.com  
 
-## 📍 Location:Dessie,Ethiopia
+## 📍 Location: Dessie, Ethiopia
 
 
 ## 📸 Screenshots
