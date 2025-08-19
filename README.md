@@ -31,7 +31,8 @@ The data entry form collects and organizes patient information through a user-fr
 - 🧠 **Macro Automation**: Adds each patient’s data into a log sheet upon clicking "Submit".
 - ✅ **Data Validation**: Ensures correct formatting and reduces entry errors.
 - 🧾 **Well-Structured Database Sheet**: Patient information is stored row-wise with headers.
-- 📆 **Date Auto-fill**: Captures current date during entry automatically.
+- 📆 **Date Auto-fill**: Captures current date (the date on the computer) during entry automatically.
+- 🔒  **Database Sheet-Protected**: The Database sheet is protected from any formatting. Only permitted person who knows the protect password can manipulate it.
 
 ---
 
