@@ -44,7 +44,7 @@ The data entry form collects and organizes patient information through a user-fr
 ---
 
 ## 📁 File Structure
-📂 Bati-General Hospital Form: [This is the main project folder](https://github.com/Molla-Adugna/Automated-Data-Entry-Form/blob/main/Bati%20General%20Hospital%20Form.xlsm)   
+📂 Bati-General Hospital Form: [This is the main project folder](https://github.com/Molla-Adugna/Automated-Data-Entry-Form/blob/main/Bati_General_Hospital_Form.xlsm)   
 📄 Patient_Entry_Form (Screenshoot):[This is screenshoot of the Data Entry Form (with Macros enabled)](https://github.com/Molla-Adugna/Automated-Data-Entry-Form/blob/main/Screenshot%20(364).png)  
 📄 All_Patients_Detail_information (Screenshoot):  [This is All patients information sheet](https://github.com/Molla-Adugna/Automated-Data-Entry-Form/blob/main/Screenshot%20(366).png)  
 📑 README.md: [This is the README.md](https://github.com/Molla-Adugna/Automated-Data-Entry-Form)       
